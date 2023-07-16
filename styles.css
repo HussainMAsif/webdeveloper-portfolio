@@ -1,0 +1,48 @@
+nav,ul>li{
+    display: flex;
+} 
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.Mary{
+    color: #010000;
+font-size: 45px;
+font-weight: 800;
+line-height: normal;
+}
+.Mary>span{
+    color: orange;
+}
+nav>ul{
+    display: flex;
+    align-items: center;
+   
+}
+nav>ul>li{
+    margin-right: 59px;
+    margin-top: 68px;
+  
+}
+nav a{
+    text-decoration: none;
+}
+nav h3{
+    margin-left: 226px;
+    margin-right: 1256px;
+}
+nav button{
+    width: 150px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 5px;
+background: #FD6E0A;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 35px;
+padding-left: 34px;
+text-justify: ;
+
+}
+nav{
+    align-items: center;
+}
