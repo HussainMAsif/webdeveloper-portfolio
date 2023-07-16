@@ -45,4 +45,33 @@ text-justify: ;
 }
 nav{
     align-items: center;
+    margin: 0 200px;
+
+}
+header{
+    background: #f4d0d0;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+}
+.Down{
+    background-color: #FD6E0A;
+    color: aliceblue;
+    width: 220px;
+    height: 64px;
+    font-size: larger;
+}
+.Cnt{
+    color: #FD6E0A;
+    width: 220px;
+    height: 64px;
+    font-size: larger;
+}
+.banr{
+    display: flex;
+}
+img{
+    width: 584px;
+    height: 674px;
+    display: corner;
 }
